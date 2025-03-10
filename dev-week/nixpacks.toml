@@ -1,0 +1,5 @@
+[phases.build]
+buildCommand = "./gradlew build"
+
+[start]
+command = "java -jar build/libs/dev-week-0.0.1-SNAPSHOT.jar"
